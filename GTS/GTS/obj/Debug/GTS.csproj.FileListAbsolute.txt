@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\GTS\GTS\bin\Debug\GTS.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\GTS\GTS\bin\Debug\GTS.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\GTS\GTS\obj\Debug\GTS.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\GTS\GTS\obj\Debug\GTS.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\GTS\GTS\obj\Debug\GTS.pdb
+C:\Users\intern.tmtam1\Downloads\GTS\GTS\bin\Debug\GTS.exe
+C:\Users\intern.tmtam1\Downloads\GTS\GTS\bin\Debug\GTS.pdb
+C:\Users\intern.tmtam1\Downloads\GTS\GTS\obj\Debug\GTS.csprojResolveAssemblyReference.cache
+C:\Users\intern.tmtam1\Downloads\GTS\GTS\obj\Debug\GTS.csproj.CoreCompileInputs.cache
+C:\Users\intern.tmtam1\Downloads\GTS\GTS\obj\Debug\GTS.exe
+C:\Users\intern.tmtam1\Downloads\GTS\GTS\obj\Debug\GTS.pdb
