@@ -1,6 +1,0 @@
-c:\users\admin\documents\visual studio 2015\Projects\baitoandonggoi\baitoandonggoi\bin\Debug\baitoandonggoi.exe.config
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\baitoandonggoi\baitoandonggoi\bin\Debug\baitoandonggoi.exe
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\baitoandonggoi\baitoandonggoi\bin\Debug\baitoandonggoi.pdb
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\baitoandonggoi\baitoandonggoi\obj\Debug\baitoandonggoi.csprojResolveAssemblyReference.cache
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\baitoandonggoi\baitoandonggoi\obj\Debug\baitoandonggoi.exe
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\baitoandonggoi\baitoandonggoi\obj\Debug\baitoandonggoi.pdb
